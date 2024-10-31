@@ -1,0 +1,63 @@
+.mobilemoxie-tool-settings-container{
+    margin: 20px 20px 20px 0
+}
+.mobilemoxie-page-oscope-preview-well-sm{
+    margin-bottom:20px;
+}
+.mobilemoxie-page-oscope-preview-flex-container{
+    display: flex;
+    gap: 20px;
+}
+.mobilemoxie-page-oscope-preview-left-col{
+    float:left;
+}
+.mobilemoxie-page-oscope-preview-right-col{
+    float:right;
+}
+.mobilemoxie-page-oscope-preview-well-sm h3{
+    margin: 0.8em 0 0.2em 0;
+}
+.mobilemoxie-page-oscope-preview-well-sm p{
+    margin: 0.8em 0;
+}
+.mobilemoxie-page-oscope-preview-info-box{
+    font-weight: 600;
+    border: 1px solid #04538e;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: #eff4f7;
+    color: #04538e;
+}
+.mobilemoxie-page-oscope-preview-info-box p{
+    font-size:14px;
+}
+.mobilemoxie-page-oscope-preview-main-color{
+    color: #04538e;
+}
+.mobilemoxie-page-oscope-preview-fit-image{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.mobilemoxie-page-oscope-preview-button{
+    background-color: #04538e;
+    border: 2px solid #04538e;
+    font-size: 14px;
+    line-height: 1.42857;
+    padding: 5px 14px 5px;
+    text-transform: none;
+    color: #fff;
+    transition: background .2s ease 0s;
+    border-radius: 3px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+}
+a.mobilemoxie-page-oscope-preview-button span.material-symbols-outlined {
+    vertical-align: bottom;
+    font-size: 22px;
+}
+.mobilemoxie-page-oscope-preview-button:hover {
+    background-color: transparent;
+    color: #04538e;
+}
